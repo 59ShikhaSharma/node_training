@@ -1,0 +1,178 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "john.doe@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "username": "janesmith",
+      "email": "jane.smith@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "username": "michaelj",
+      "email": "michael.j@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "username": "emilydavis",
+      "email": "emily.davis@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "name": "William Brown",
+      "username": "willb",
+      "email": "william.brown@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "username": "sarahw",
+      "email": "sarah.wilson@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 7,
+      "name": "David Lee",
+      "username": "davidl",
+      "email": "david.lee@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 8,
+      "name": "Jessica Martinez",
+      "username": "jessicam",
+      "email": "jessica.martinez@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 9,
+      "name": "Christopher Robinson",
+      "username": "chrisr",
+      "email": "christopher.robinson@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 10,
+      "name": "Amanda Thompson",
+      "username": "amandat",
+      "email": "amanda.thompson@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 11,
+      "name": "Daniel Garcia",
+      "username": "danig",
+      "email": "daniel.garcia@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 12,
+      "name": "Stephanie Harris",
+      "username": "stephh",
+      "email": "stephanie.harris@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 13,
+      "name": "Matthew Clark",
+      "username": "mattc",
+      "email": "matthew.clark@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 14,
+      "name": "Olivia Walker",
+      "username": "oliviaw",
+      "email": "olivia.walker@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 15,
+      "name": "Andrew King",
+      "username": "andrewk",
+      "email": "andrew.king@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 16,
+      "name": "Lauren Green",
+      "username": "laureng",
+      "email": "lauren.green@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 17,
+      "name": "James Baker",
+      "username": "jamesb",
+      "email": "james.baker@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 18,
+      "name": "Rachel Young",
+      "username": "rachely",
+      "email": "rachel.young@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 19,
+      "name": "Kevin Lopez",
+      "username": "kevinl",
+      "email": "kevin.lopez@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 20,
+      "name": "Ashley Hall",
+      "username": "ashleyh",
+      "email": "ashley.hall@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 21,
+      "name": "Brian Scott",
+      "username": "brians",
+      "email": "brian.scott@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 22,
+      "name": "Nicole Adams",
+      "username": "nicolea",
+      "email": "nicole.adams@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 23,
+      "name": "Ryan Thomas",
+      "username": "ryant",
+      "email": "ryan.thomas@example.com",
+      "gender": "male"
+    },
+    {
+      "id": 24,
+      "name": "Kimberly Hughes",
+      "username": "kimberlyh",
+      "email": "kimberly.hughes@example.com",
+      "gender": "female"
+    },
+    {
+      "id": 25,
+      "name": "Jason Wright",
+      "username": "jasonw",
+      "email": "jason.wright@example.com",
+      "gender": "male"
+    }
+]
+  
